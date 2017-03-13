@@ -8,8 +8,8 @@ Service Design Co-Design paradigms lend themselves well to a new critical philos
 alt="Creative Commons License" style="border-width:0"
 src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span
 xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text"
-property="dct:title" rel="dct:type">Service Design' Co-Design: the need for a
-new kind of critical philosophy. (pamphlet)</span> by <a
+property="dct:title" rel="dct:type"><i>Service Design' Co-Design: the need for a
+new kind of critical philosophy.</i> (pamphlet)</span> by <a
 xmlns:cc="http://creativecommons.org/ns#"
 href="https://github.com/nicb/pamphlet-SDCDCP" property="cc:attributionName"
 rel="cc:attributionURL">Nicola Bernardini</a> is licensed under a <a
